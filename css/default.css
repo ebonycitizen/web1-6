@@ -60,3 +60,32 @@ dt{
 .btn:active{
   background-color: silver;
 }
+
+#goods{
+  border: 2px solid lightcoral;
+  border-collapse: collapse;
+}
+
+th{
+  border: 1px solid lightcoral;
+  background-color:pink;
+  padding: 5px;
+  width: 150px;
+  text-align: center;
+}
+
+td{
+  border: 1px solid lightcoral;
+  background-color: lightgrey;
+  padding: 5px;
+  width: 80px;
+  text-align: center;
+}
+
+caption{
+  padding: 5px;
+}
+
+#price{
+  background-color: lightpink;
+}
