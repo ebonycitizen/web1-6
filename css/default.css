@@ -66,6 +66,12 @@ dt{
   border-collapse: collapse;
 }
 
+thread th, thread td{
+  background-color: firebrick;
+  color: white;
+  text-align: center;
+}
+
 th{
   border: 1px solid lightcoral;
   background-color:pink;
