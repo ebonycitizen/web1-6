@@ -38,7 +38,7 @@ dt{
   -webkit-appearance: none;
   -webkit-border-radius: 20;
   margin: 8px;
-  width: 150px;
+  width: 80px;
   height: 40px;
   padding: 10px;
   border: none;
@@ -54,7 +54,7 @@ dt{
 }
 
 .btn:hover{
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .btn:active{
