@@ -8,6 +8,7 @@
   <body>
     <article id="main">
       <h3>今日祭り行きました。</h3>
+      <img src="img/matsuri.jpg" alt="さげもん" class="photo">
     </article>
   </body>
 </html>
