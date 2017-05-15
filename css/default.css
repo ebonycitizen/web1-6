@@ -1,1 +1,12 @@
+@charset "UTF-8";
 
+body{
+  background-color: #e6e6fa
+}
+
+#main{
+  width: 800px;
+  padding: 30px 60px;
+  border: #ffb6c1 1px solid;
+  background-color: white;
+}
