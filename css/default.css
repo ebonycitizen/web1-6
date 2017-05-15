@@ -30,3 +30,31 @@ dt{
   float: left;
   font-weight: bold;
 }
+
+.btn
+{
+  -webkit-appearance: none;
+  -webkit-border-radius: 20;
+  margin: 8px;
+  width: 150px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  font-size: 14px;
+}
+
+.btn-submit{
+  background-color: blue;
+}
+
+.btn-reset{
+  background-color: red;
+}
+
+.btn:hover{
+  opacity: 0.6;
+}
+
+.btn:active{
+  background-color: silver;
+}
