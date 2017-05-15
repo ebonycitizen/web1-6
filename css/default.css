@@ -72,7 +72,21 @@ thread td, thread th{
   text-align: center;
 }
 
+th{
+  border: 1px solid lightcoral;
+  background-color:pink;
+  padding: 5px;
+  width: 150px;
+  text-align: center;
+}
 
+td{
+  border: 1px solid lightcoral;
+  background-color: lightgrey;
+  padding: 5px;
+  width: 80px;
+  text-align: center;
+}
 
 caption{
   padding: 5px;
